@@ -1,6 +1,6 @@
 # Telcom_Churn_Prediction
 
-## Buiness Problem: The main objective of the project is to build a predictive model that will generate the list of customer most vulnerable to churn.
+## Buiness Problem: Build the best machine learning model which predicts the churned customer accurately in this high imbalanced dataset.
 Source: # https://www.kaggle.com/puja19/telcom-customer-churn
 ## Dataset Description:
 * Target variable | Churn: Customer who stop doing business with the company.
